@@ -1,8 +1,15 @@
 # Portafolio-Web
 
-![](capturas/portada.png)
+![portada](capturas/portada.png)
 
 link de la plantilla: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+
+Thanks for downloading this template!
+
+Template Name: DevFolio
+Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
 
 
 para usar la plantilla solo tienes que abrir el enlace en el navegador, seleccionamos el boton de download y seleccionamos la opcion gratuita
