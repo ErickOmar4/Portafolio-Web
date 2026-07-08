@@ -32,6 +32,7 @@ Plantilla utilizada:
 DevFolio - BootstrapMade
 
 
+# estructura del proyecto
 
 
-area de de desarrollo, donde ingresamo un resumen de nosotros y la educación en la experiencia personal
+area de de desarrollo, donde ingresamo un resumen de nosotros y la educación en la experiencia personal 
